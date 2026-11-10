@@ -640,8 +640,11 @@
     "video_url": "https://raw.githubusercontent.com/Guelo22/eartonik-media/main/videos/a-unminuto.mp4",
     "cover_url": "https://raw.githubusercontent.com/Guelo22/eartonik-media/main/covers/a-unminuto.jpg",
     "caption": "Descárgala gratis, el enlace está en el perfil 👆 Un minuto al día para tu oído musical: sesenta segundos de preguntas y tu racha sube.\n\n#oidomusical #entrenamientoauditivo #musicos #aprendemusica #habitos",
-    "estado": "aprobado",
-    "intentos": 0
+    "estado": "publicado",
+    "intentos": 0,
+    "media_id": "17953053507302272",
+    "permalink": "https://www.instagram.com/reel/DfkuQ92iuES/",
+    "publicado_en": "2026-11-10T14:05:19-06:00"
   },
   {
     "id": "a-todoenuna",
